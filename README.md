@@ -12,10 +12,10 @@ Replace these placeholders before submission.
 
 | Deliverable | Link |
 |---|---|
-| Gameplay demonstration video | ADD GAMEPLAY VIDEO LINK |
-| Script walkthrough video | ADD SCRIPT WALKTHROUGH LINK |
-| GitHub repository | ADD GITHUB REPOSITORY LINK |
-| Published documentation page | ADD DOCUMENTATION PAGE LINK |
+| Gameplay demonstration video | https://youtu.be/otEqLnK9v2k |
+| Script walkthrough video | https://youtu.be/WJt1vBxY6rU |
+| GitHub repository | https://github.com/audranALU/PlatformerFeatureUpdate.git |
+| Published documentation page | https://docs.google.com/document/d/1bAeOfUXgE75K8fwF3QxDb-mBajlwLPdyBzAQmj7ESGI/edit?usp=sharing |
 
 ## Project overview
 
